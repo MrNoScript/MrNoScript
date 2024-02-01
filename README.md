@@ -2,7 +2,7 @@
 
 I write code, solve problems, and develop solutions. Some of my code is available is on here as is my blog. 
 
-<img src="https://github.com/MrNoScript/MrNoScript/raw/master/undraw_code_thinking_1jeh.png" align="right" width="200px" />
+<img src="https://github.com/MrNoScript/MrNoScript/raw/main/undraw_code_thinking_1jeh.png" align="right" width="200px" />
 
 - 🔭 I'm currently working on: [EventIO](https://restartitservices.co.uk/), .NET projects and more!
 - 📫 How to reach me:  [📧](mailto:hello@tomroberts.uk)
