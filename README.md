@@ -1,10 +1,12 @@
 ### Hi, I'm Tom 👋
 
-I write code, solve problems, and develop solutions. Some of my code is available is on here as is my blog. 
+I write code 💻, solve problems 🤔, and develop solutions 🥳. Some of my code is available is on here. 
 
-<img src="https://github.com/MrNoScript/MrNoScript/raw/main/undraw_code_thinking_1jeh.png" align="right" width="200px" />
+<img alt="An illustration of a person developing a DevOps workflow" src="code-thinking.png" align="right" width="350px" /> 
 
 - 🔭 I'm currently working on: [EventIO](https://restartitservices.co.uk/), .NET projects and more!
+- 😍 .NET, PHP (sorry...), all things ☁️ and, learning new things!
+- ❤️ to ⛷️ 🚶‍♂️ 🥾 🚴‍♂️
 - 📫 How to reach me:  [📧](mailto:hello@tomroberts.uk)
 - 🧠 I'm learning React, Blazor, .NET MAUI.
 - 🔥 [Duende.BFF](https://github.com/duendesoftware/bff) has opened up solutions to problems.
